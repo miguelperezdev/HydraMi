@@ -1,5 +1,5 @@
 <p align="center">
-![Oan](https://github.com/user-attachments/assets/416b9a44-66d6-4588-b72b-43f99ff128a6)
+<img src="![Oan](https://github.com/user-attachments/assets/416b9a44-66d6-4588-b72b-43f99ff128a6)"
  <p/>
 <h1 align="center"> Hi! I'm HidraMi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
