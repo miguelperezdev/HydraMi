@@ -8,8 +8,6 @@
   <em>“Life is a patch. Sometimes you just need to debug it.”</em>
 </p>
 
----
-
 ### 🌱 About Me
 
 - 🔭 Currently learning: **Java**, **Data Structures**, and **Spring Boot**.
@@ -18,8 +16,6 @@
 - 💬 Ask me about: Java, backend stuff, or how to not break prod.
 - ⚡ Hobbies: Coding, reading docs I don't understand (yet), and anime.
 - 😄 Pronouns: He/Him
-
----
 
 ### 🚀 Tech Stack
 
@@ -54,8 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -63,11 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydraMi&theme=tokyonight&layout=compact" width="48%" />
 </p>
 
----
-
-### ✨ Fun Ending
-
 <p align="center">
-  <em>“Just a dev trying to make sense of the stack trace...”</em><br>
-  <strong>#CodeEatSleepRepeat ☕💡</strong>
+  <em>“When I first wrote this code, only God and I knew how it worked.<br>
+  Now… only God knows.”</em><br>
+  🙈💻
 </p>
+
